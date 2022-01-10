@@ -71,3 +71,8 @@ class TicTacToe:
 
     def has_equal_diagonals(self,letter):
         pass
+
+    def __del__(self):
+        return (True)
+
+        
